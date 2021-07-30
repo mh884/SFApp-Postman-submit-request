@@ -1,7 +1,5 @@
 # SFAppSubmitRequest
-Using postman to submit to SFApp endpoint 
-
-Use the script to import into Postman to run test
+Using postman to submit a request to Salesforce though SFApp Endpoint 
 
 Supported
 - Native
