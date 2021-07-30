@@ -10,4 +10,4 @@ How to run
 - Open browser newtwork to capture request to salesforce from after submitting 
 - Copy key value to post man loadTestXXXXXXXX.json
 - Run collection from postman and set the Data to the loadTestXXXXXXXX.json 
-- Check the test you want to test 
+- Check the test you would like to test 
